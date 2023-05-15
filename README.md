@@ -28,7 +28,3 @@ Hello! My name is Adryel and I am a software developer passionate about creating
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adryelgcouto/Adryelgcouto/output/github-contribution-grid-snake.svg">
 </picture>
 
- 
-
-  ![Snake animation](https://github.com/Adryelgcouto/Adryelgcouto/blob/output/github-contribution-grid-snake.svg)
-
