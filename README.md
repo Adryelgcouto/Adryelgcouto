@@ -24,7 +24,7 @@ Hello! My name is Adryel and I am a software developer passionate about creating
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-  ![Snake animation](https://github.com/Adryelgcouto/Adryelgcouto/blob/output/github-contribution-grid-snake.svg)
+ 
 
   ![Snake animation](https://github.com/Adryelgcouto/Adryelgcouto/blob/output/github-contribution-grid-snake.svg)
 
